@@ -65,7 +65,7 @@ while(true){
             }
         break;
         case 1:
-            position[0] += 1;//right🮋⋕╳▉◯⸻︱￨𜱁𜴳𜷴|╋╬║═╔╗╚╝𜸺𜹈𜸟
+            position[0] += 1;//right
             skin = skinH;
             if(pd == 0)
             {
